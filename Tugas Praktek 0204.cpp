@@ -13,4 +13,7 @@ int main (){
 	Jml_box_parket=Luas_Rumah/Luas_1box;
 	cout<<"Jumlah Box Parket:"<<Jml_box_parket<<endl;	
 
+
+	Biaya_parket=Jml_box_parket*500;
+	cout<<"Biaya Parket (Rp):"<<Biaya_parket<<endl;
 }
