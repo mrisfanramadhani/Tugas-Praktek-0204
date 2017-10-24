@@ -16,4 +16,7 @@ int main (){
 
 	Biaya_parket=Jml_box_parket*500;
 	cout<<"Biaya Parket (Rp):"<<Biaya_parket<<endl;
+
+	Biaya_pasang=Luas_Rumah*20;
+	cout<<"Biaya Pasang (Rp):"<<Biaya_pasang<<endl;
 }
