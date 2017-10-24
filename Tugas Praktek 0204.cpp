@@ -19,4 +19,7 @@ int main (){
 
 	Biaya_pasang=Luas_Rumah*20;
 	cout<<"Biaya Pasang (Rp):"<<Biaya_pasang<<endl;
+
+	Totalbyr=Biaya_parket+Biaya_pasang;
+	cout<<"Total Biaya(Rp):"<<Totalbyr<<endl;
 }
